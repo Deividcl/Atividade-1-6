@@ -1,0 +1,22 @@
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.deps.json
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.runtimeconfig.json
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.runtimeconfig.dev.json
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.dll
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.pdb
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.AssemblyInfoInputs.cache
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.AssemblyInfo.cs
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.dll
+C:\Users\BR\source\repos\atividade2cSH\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.pdb
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.deps.json
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.runtimeconfig.json
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.runtimeconfig.dev.json
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.dll
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\bin\Debug\netcoreapp2.1\atividade2cSH.pdb
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.AssemblyInfoInputs.cache
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.AssemblyInfo.cs
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.dll
+C:\Users\BR\source\repos\Atividade 1 e 6\atividade2cSH\obj\Debug\netcoreapp2.1\atividade2cSH.pdb
