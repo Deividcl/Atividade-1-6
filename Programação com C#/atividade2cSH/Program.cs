@@ -116,6 +116,29 @@ namespace atividade2cSH
 
             //Atividade 5
 
+            char letra;
+            bool vogal = false;
+
+            string[] vogais = new string[] { "a", "e", "i", "o", "u" };
+
+            Console.Write("Informe uma letra: ");
+            char.TryParse(Console.ReadLine(), out letra);
+
+            for (int i = 0; i < vogais.Length; i++)
+            {
+                if (vogais[i] == letra.ToString())
+                {
+                    vogal = true;
+                }
+            }            
+            if (vogal)
+            {
+                Console.WriteLine("VOGAL.");
+            }
+            else
+            {
+                Console.WriteLine("CONSOANTE.");
+            }
 
             //Atividade 6 Numeros primos
             Console.WriteLine("\n");

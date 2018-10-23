@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BR\\source\\repos\\Atividades 2\\atividade2cSH\\atividade2cSH.csproj",
+      "projectUniqueName": "C:\\Users\\BR\\source\\repos\\Programação com C#\\atividade2cSH\\atividade2cSH.csproj",
       "projectName": "atividade2cSH",
-      "projectPath": "C:\\Users\\BR\\source\\repos\\Atividades 2\\atividade2cSH\\atividade2cSH.csproj",
+      "projectPath": "C:\\Users\\BR\\source\\repos\\Programação com C#\\atividade2cSH\\atividade2cSH.csproj",
       "packagesPath": "C:\\Users\\BR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BR\\source\\repos\\Atividades 2\\atividade2cSH\\obj\\",
+      "outputPath": "C:\\Users\\BR\\source\\repos\\Programação com C#\\atividade2cSH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
